@@ -1,6 +1,4 @@
-# app_test
-
-A new Flutter project.
+# Flutter music app
 
 ## Getting Started
 
